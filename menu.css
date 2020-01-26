@@ -1,0 +1,99 @@
+.menu {
+  background-color: #34314c;
+  position: relative;
+  height: 70px;
+}
+
+.menu__home {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+}
+
+.menu__regist {
+  width: 200px;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.menu__button {
+  position: absolute;
+  height: 50%;
+  right: 0;
+  width: 60%;
+  font-size: 18px;
+  background-color: white;
+  color: #34314c;
+  border-radius: 5px;
+  border: 1px solid white;
+  font-family: "Open Sans", sans-serif;
+}
+
+.menu__login {
+  position: absolute;
+  height: 40%;
+  font-family: "Open Sans", sans-serif;
+  left: 0;
+  width: 50%;
+  color: #47b8e0;
+  font-size: 18px;
+}
+.main-navigation {
+  background-color: #34314c !important;
+}
+.menu-main_menu-container{
+  background-color: #34314c !important;
+}
+ul {
+  background-color: #34314c !important;
+}
+.toggled-on {
+  background-color: #34314c;
+}
+
+.menu__button:hover {
+  background-color: #34314c;
+  color: white;
+  border: 1px solid #34314c;
+}
+
+.menu__login:hover {
+  font-size: 18px;
+  color: white;
+}
+
+.menu-item {
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+}
+
+.menu-item-type-custom {
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+}
+
+.menu-item-object-custom {
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+}
+
+.menu-item-78 {
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+}
+
+
